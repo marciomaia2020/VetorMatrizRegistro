@@ -7,6 +7,26 @@ mingw-get-setup.exe
 
 https://www.youtube.com/watch?v=h96Z38oMJZA do professor Pietro
 
+
+SET A VARIÁVEL DE AMBIENTE
+PATH/NOVO  C:\MinGW\bin
+
+DEPOIS NO VISUAL ACHE E INSTALE
+C/C++ IntelliSence, deboggin and code browsing
+C/C++ Compile Run
+
+
+
+***************************RESUMO SEGUIR 4 PASSOS***************************
+
+
+Instalar o mingw						(https://sourceforge.net/projects/mingw/)
+Configurar Variável de Ambiente			 Windows + R  (sysdm.cpl) ou pesquisar por (editar as variáveis de ambiente do sistemas) em PATH coloque o caminho da instalação do mingw
+Instalar o VScode 						(https://code.visualstudio.com/Download)
+Instalar os plugins no VScode			 C/C++ IntelliSence, deboggin and code browsing  /   C/C++ Compile Run
+
+
+
 -------------------------------------------------
 VETOR
 --Declarando 
@@ -44,5 +64,8 @@ MUITO UTIL COMBINAR REGISTRO E VETORES
 
 1º Declara um novo registro
 2º Cria-se um vetor de registro
+
+
+
   
   
