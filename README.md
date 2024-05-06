@@ -65,7 +65,4 @@ MUITO UTIL COMBINAR REGISTRO E VETORES
 1º Declara um novo registro
 2º Cria-se um vetor de registro
 
-
-
-  
   
