@@ -21,7 +21,7 @@ C/C++ Compile Run
 
 
 Instalar o mingw						(https://sourceforge.net/projects/mingw/)
-Configurar Variável de Ambiente			 Windows + R  (sysdm.cpl) ou pesquisar por (editar as variáveis de ambiente do sistemas) em PATH coloque o caminho da instalação do mingw
+Configurar Variável de Ambiente			 Windows + R  (sysdm.cpl) ou pesquisar por (editar as variáveis de ambiente do sistemas) em PATH coloque o caminho da instalação do mingw (C:\MinGW\bin)
 Instalar o VScode 						(https://code.visualstudio.com/Download)
 Instalar os plugins no VScode			 C/C++ IntelliSence, deboggin and code browsing  /   C/C++ Compile Run
 
